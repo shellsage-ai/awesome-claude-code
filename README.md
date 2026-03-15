@@ -389,3 +389,28 @@ This list is licensed under [Creative Commons CC BY-NC-ND 4.0](https://creativec
 
 
 <!-- OBLIGATORY GUARD AGAINST SILLY END-OF-FILE PROBLEM -->
+
+
+### ShellSage AI Tools
+
+> Production-ready digital tool packs for Claude Code developers and AI agent builders.
+
+- [Agent Skills Launch Pack](https://shellsageai.com/products/agent-skills-launch-pack/) — Save 5+ hours/week with pre-built skills for your AI coding agent. ($29)
+- [First 10 Customers Playbook](https://shellsageai.com/products/first-10-customers-playbook/) — The no-BS guide to your first paying customers — built for technical founders. ($27)
+- [MCP Server Boilerplate Kit](https://shellsageai.com/products/mcp-server-boilerplate-kit/) — Production-ready MCP server templates for TypeScript and Python — working in under 5 minutes. ($49)
+- [First Client Outbound System](https://shellsageai.com/products/first-client-outbound-system/) — Land your first 3 clients in 30 days with a complete outbound system ($27)
+- [Off-Platform Lead Engine Kit](https://shellsageai.com/products/off-platform-lead-engine-kit/) — Own your clients, not your marketplace ranking ($27)
+- [Upwork Contract Safety SOP Pack](https://shellsageai.com/products/upwork-contract-safety-sop-pack/) — Protect every dollar you earn on Upwork ($19)
+- [Claude Code Workflow & AGENTS.md Template Kit](https://shellsageai.com/products/claude-code-workflow-kit/) — Ship Claude Code Projects 10x Faster with Ready-Made Templates ($19)
+- [Agent Monitor CLI](https://shellsageai.com/products/agent-monitor-cli/) — The Missing Observability Layer for Autonomous Agents ($29)
+- [Agent Deployment Checklist & Runbook Kit](https://shellsageai.com/products/agent-deployment-checklist/) — Deploy AI agents to production with zero guesswork. ($19)
+- [Claude Code Cost Optimization Playbook](https://shellsageai.com/products/claude-code-cost-optimization/) — Cut your Claude Code costs by 40-70% starting today. ($19)
+- [Agent Skill Builder Kit](https://shellsageai.com/products/agent-skill-builder-kit/) — Build, test, and publish domain-specific agent skills — from scratch to ClawHub. ($24)
+- [MCP Integration Recipes Cookbook](https://shellsageai.com/products/mcp-integration-cookbook/) — 15 production-ready recipes for the integrations you actually need. ($39)
+- [Agent Evals Starter Kit](https://shellsageai.com/products/agent-evals-starter-kit/) — Stop guessing if your AI agent works. Start measuring. ($24)
+- [Multi-Model Agent Migration Kit](https://shellsageai.com/products/multi-model-agent-migration-kit/) — Multi-Model Agent Migration Kit — digital download for Claude Code developers. ($27)
+- [AI Coding Agent Security Kit](https://shellsageai.com/products/agent-coding-security-kit/) — AI Coding Agent Security Kit — digital download for Claude Code developers. ($19)
+- [AI Agent Database Blast-Radius Prevention Kit](https://shellsageai.com/products/ai-agent-db-blast-radius-kit/) — AI Agent Database Blast-Radius Prevention Kit — digital download for Claude Code developers. ($19)
+- [MCP Registry Fast-Track Submission Kit](https://shellsageai.com/products/mcp-registry-submission-kit/) — MCP Registry Fast-Track Submission Kit — digital download for Claude Code developers. ($19)
+- [MCP Registry Publishing Guide](https://shellsageai.com/products/mcp-registry-publishing-guide/) — MCP Registry Publishing Guide — digital download for Claude Code developers. ($29)
+- [AI Dev Relevance Playbook](https://shellsageai.com/products/ai-dev-relevance-playbook/) — AI Dev Relevance Playbook — digital download for Claude Code developers. ($17)
